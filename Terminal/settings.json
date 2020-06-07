@@ -31,7 +31,7 @@
         {
             // Put settings here that you want to apply to all profiles.
             "fontFace": "Cascadia Code",
-            "fontSize": 13
+            "fontSize": 12
         },
         "list":
         [
